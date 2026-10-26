@@ -1,0 +1,18 @@
+# 别把真实密钥/凭据提交进来
+*.pem
+*.key
+.env
+.env.*
+.secrets/
+*secret*
+*password*
+*_token*
+apikey*
+
+# 运维实录（内部留底，不开源）
+evidence/
+
+# 系统垃圾
+.DS_Store
+__pycache__/
+*.pyc

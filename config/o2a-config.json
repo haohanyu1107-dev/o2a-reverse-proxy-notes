@@ -1,0 +1,25 @@
+{
+  "model_alias": [],
+  "reasoning_effort_map": {
+    "high": "high",
+    "medium": "medium",
+    "minimal": "low"
+  },
+  "force_disable_thinking": false,
+  "key_pool": {
+    "enabled": false,
+    "strategy": "sticky",
+    "max_retries": 2
+  },
+  "socks5_proxies": [
+    {
+      "name": "mihomo-7890",
+      "addr": "127.0.0.1:7890",
+      "username": "",
+      "password": ""
+    }
+  ],
+  "active_socks5": "127.0.0.1:7890",
+  "socks5_paid_direct": false,
+  "socks5_sticky": true
+}
